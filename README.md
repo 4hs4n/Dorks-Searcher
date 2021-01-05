@@ -11,7 +11,7 @@ It becomes a more powerful in combination with [GHDB](https://www.exploit-db.com
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements
 
 ```bash
-cd Katana
+cd Dorks-Searcher
 python3 -m pip install -r requirements.txt
 python3 kds.py
 ```
